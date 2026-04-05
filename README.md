@@ -68,6 +68,5 @@ Create a 6-slide presentation on machine learning for college students. Include 
 * outline.json
 * slide_content.json
 
-## Author
-
-Auto PPT Agent Assignment
+##🎥 Demo Video:
+https://drive.google.com/file/d/1SmevNjyNCbyqdaWVM6SGVRHKO1IWrUMU/view?usp=sharing
